@@ -25,8 +25,8 @@ Ce projet vise à explorer les statistiques et les rôles tactiques des Pokémon
 1. **Cloner le projet** :
 
 ```bash
-git clone https://github.com/votre-utilisateur/PokemonRushProject.git
-cd PokemonRushProject
+git clone https://github.com/votre-utilisateur/RushMon.git
+cd RushMon
 ```
 
 2. **Installer les dépendances** :
